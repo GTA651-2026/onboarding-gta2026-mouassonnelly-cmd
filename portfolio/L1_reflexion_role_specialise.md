@@ -12,27 +12,33 @@ _(Klarna / GitHub Copilot Enterprise / Morgan Stanley)_
 
 ## 1. Probleme d'affaires resolu
 
-_(En 2-3 phrases : quel probleme concret l'organisation cherchait-elle a resoudre ?)_
+Klarna cherchait à gérer un volume massif de conversations de support client tout en réduisant le délai de réponse et le taux d'erreur ., 
+
+ 
 
 ## 2. Fonction d'affaires ciblee
 
-_(Service client, developpement logiciel, analyse financiere, etc.)_
+_Service client et operations
 
 ## 3. Role specialise que l'agent orchestre
 
-_(Nommez-le precisement : agent de service client, agent developpeur, agent analyste, etc.)_
+_Agent service client  
 
 ## 4. Valeur creee — quantifiee avec donnees publiques
 
-_(Chiffres concrets issus des sources du cours. Ex. : 700 agents equivalents, 55 % plus rapide, etc.)_
+_Capacite de traitement : l'agent IA a géré deux tiers de toutes les conversations de support en un mois, si équivalent de 700 agents humains à temps pleins.  
+
+Vitesse: les demandes sont résolues en moins d 2 minutes, comparativement a une moyenne précédente de 11minutes. 
+
+Qualité et disponibilités: réduction des erreurs de 25%et service disponible 24/7 dans 35 langues. 
 
 ## 5. Risque principal et mitigation concrete
 
-_(Quel est le risque le plus important ? Quelle mesure concrete le reduit ?)_
+_Risque principal : dégradation de la qualité de service perçue et perte de la relation de confiance avec les clients en raison d'une Reduction trop radicale de personnel humain . 
 
 ## 6. Condition de succes pour votre organisation
 
-_(Qu'est-ce qui doit etre en place pour que ce deploiement agentique fonctionne ?)_
+_Risque principal : dégradation de la qualité de service perçue et perte de la relation de confiance avec les clients en raison d'une Reduction trop radicale de personnel humain . 
 
 ---
 
